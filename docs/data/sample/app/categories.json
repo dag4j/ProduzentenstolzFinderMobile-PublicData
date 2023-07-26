@@ -1,0 +1,170 @@
+[
+    {
+        "id": "1",
+        "name": "Aufstriche",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Aufstriche.svg",
+        "subCategories": [
+            "Süße Aufstriche",
+            "Herzhafte Aufstriche"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Backwaren",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Backwaren.svg",
+        "subCategories": [
+            "Brot",
+            "Semmeln",
+            "Brötchen",
+            "Kekse",
+            "Plätzchen"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Eier",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Eier.svg",
+        "subCategories": [
+            "Hühnereier",
+            "Wachteleier",
+            "Weicheier"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Eis",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Eis.svg",
+        "subCategories": [
+            "Milcheis",
+            "Sorbet"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Fisch",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Fisch.svg",
+        "subCategories": [
+            "Süßwasserfisch",
+            "Meeresfrüchte"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Fleischwaren",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Fleischwaren.svg",
+        "subCategories": [
+            "Rind",
+            "Geflügel",
+            "Schwein"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Gemüse",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Gemüse.svg",
+        "subCategories": [
+            "Saisonales Gemüse",
+            "Erdäpfel",
+            "Kartoffeln",
+            "Tüften",
+            "Möhren",
+            "Mohrrüben",
+            "Karotten"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Getränke",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Getränke.svg",
+        "subCategories": [
+            "Bier",
+            "Wein",
+            "Obstsäfte"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Getreide",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Getreide.svg",
+        "subCategories": [
+            "Dinkel",
+            "Roggen",
+            "Emmer",
+            "Weizen"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Gewürze",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Gewürze.svg",
+        "subCategories": [
+            "Nelken",
+            "Zimt",
+            "Pfeffer"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Kaffee und Tee",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Kaffee und Tee.svg",
+        "subCategories": [
+            "Kaffee mit Milch",
+            "Kaffee ohne Zucker"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Käse",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Käse.svg",
+        "subCategories": [
+            "Hartköse",
+            "Weichkäse",
+            "Ziegenkäse",
+            "Stinkekäse"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Milchprodukte",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Milchprodukte.svg",
+        "subCategories": [
+            "Milch",
+            "Joghurt",
+            "Butter",
+            "Sahne"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Obst",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Obst.svg",
+        "subCategories": [
+            "Äpfel",
+            "Birnen",
+            "Pflaumen",
+            "Quitten"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Öle",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Öle.svg",
+        "subCategories": [
+            "Leinsamenöl",
+            "Rapsöl",
+            "Sesamöl",
+            "Kürbiskernöl"
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Wild",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Wild.svg",
+        "subCategories": [
+            "Reh",
+            "Hirsch",
+            "Kaninchen",
+            "Rotwild"
+        ]
+    }
+]
