@@ -1,0 +1,150 @@
+[
+    {
+        "id": "1",
+        "name": "Pixel Ink",
+        "address": {
+            "street": "Adi-Maislinger-Str. 7",
+            "zipCode": "81379",
+            "city": "München",
+            "country": "Germany"
+        },
+        "distance": 3,
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "website": "www.pixel-ink.de",
+        "image": {
+            "uri": "https://www.pixel-ink.de/fileadmin/user_upload/agentur_bilder/agentur.jpg"
+        },
+        "location": {
+            "latitude": 48.1294255,
+            "longitude": 11.5345778
+        },
+        "categories": [
+            {
+                "id": "9",
+                "subCategories": [
+                    "Dinkel",
+                    "Emmer"
+                ]
+            },
+            {
+                "id": "6",
+                "subCategories": [
+                    "Rind"
+                ]
+            },
+            {
+                "id": "5",
+                "subCategories": [
+                    "Süßwasserfisch"
+                ]
+            },
+            {
+                "id": "3",
+                "subCategories": [
+                    "Hühnereier",
+                    "Weicheier"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "ProduzentenStolz",
+        "address": {
+            "street": "Kazmairstraße 28",
+            "zipCode": "81379",
+            "city": "München",
+            "country": "Germany"
+        },
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "website": "produzentenstolz.app",
+        "distance": 3,
+        "image": {
+            "uri": "https://app.produzentenstolz.app/assets/images/auth/radieserl.jpg"
+        },
+        "location": {
+            "latitude": 48.1381084,
+            "longitude": 11.5373301
+        },
+        "categories": [
+            {
+                "id": "2",
+                "subCategories": [
+                    "Semmeln",
+                    "Brötchen"
+                ]
+            },
+            {
+                "id": "5",
+                "subCategories": [
+                    "Süßwasserfisch",
+                    "Meeresfrüchte"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Pixel Turm",
+        "address": {
+            "street": "Gollierstraße 83",
+            "zipCode": "81379",
+            "city": "München",
+            "country": "Germany"
+        },
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "website": "www.pixel-ink.de",
+        "distance": 3,
+        "image": {
+            "uri": "https://www.pixel-ink.de/fileadmin/user_upload/Slider/Home/DAS.jpg"
+        },
+        "location": {
+            "latitude": 48.1364153,
+            "longitude": 11.5304459
+        },
+        "categories": [
+            {
+                "id": "14",
+                "subCategories": [
+                    "Pflaumen",
+                    "Quitten"
+                ]
+            },
+            {
+                "id": "3",
+                "subCategories": [
+                    "Wachteleier"
+                ]
+            },
+            {
+                "id": "16",
+                "subCategories": [
+                    "Reh",
+                    "Hirsch",
+                    "Rotwild"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Pixel Dev",
+        "address": {
+            "street": "Ridlerstraße 44",
+            "zipCode": "81379",
+            "city": "München",
+            "country": "Germany"
+        },
+        "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "website": "www.pixel-ink.de",
+        "distance": 3,
+        "location": {
+            "latitude": 48.1329629,
+            "longitude": 11.5343391
+        },
+        "image": {
+            "uri": "https://www.pixel-ink.de/fileadmin/user_upload/Header/webentwicklung.jpg"
+        },
+        "categories": []
+    }
+]
