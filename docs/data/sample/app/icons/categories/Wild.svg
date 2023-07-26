@@ -1,11 +1,11 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path
         d="M48.2185 28.8115C49.1668 28.0482 49.9118 27.5231 50.9813 26.8706C55.3458 24.2082 58.8365 20.7962 57.8236 15.9205C56.8067 11.0257 51.2652 8.06409 45.4463 9.30569C41.5357 10.1401 38.2269 12.7933 34.3824 13.9337C29.9922 15.236 25.3463 15.4361 20.8771 16.3897C11.1601 18.4631 4.61199 26.5414 6.25151 34.4332C7.89104 42.3249 17.0973 47.0416 26.8143 44.9683C31.4579 43.9774 36.1384 40.6276 39.6115 37.1371C40.5249 36.2191 41.3944 35.3145 42.2462 34.4332"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
     <path
         d="M6 32.7615V32.7615C6 39.7935 6.37563 47.7829 12.2125 51.7046C16.0127 54.2577 21.1502 55.57 26.8185 54.7182C32.1499 53.917 36.3767 51.6043 40.0648 48.311C45.0321 43.8753 46.1486 40.7484 51.3225 36.5902C55.6136 33.1415 57.9191 31.0651 57.9979 27.6753V17.1182"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
     <ellipse opacity="0.9" cx="23.367" cy="29.8703" rx="5.12127" ry="3.70712"
-        transform="rotate(-9.32096 23.367 29.8703)" stroke="#00443a" stroke-width="4" stroke-linecap="round"
+        transform="rotate(-9.32096 23.367 29.8703)" stroke="currentColor" stroke-width="4" stroke-linecap="round"
         stroke-linejoin="round" />
 </svg>

@@ -1,10 +1,10 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M39.6703 58H24.3297" stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M32 41.5L32 58" stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M39.6703 58H24.3297" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M32 41.5L32 58" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
     <path
         d="M9.62483 18.6925C9.01464 18.0569 9.46512 17 10.3462 17H53.6538C54.5349 17 54.9854 18.0569 54.3752 18.6925L32 42L9.62483 18.6925Z"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M17 25H28" stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M33.5 29.5L44.9466 10.2141L54.8039 6" stroke="#00443a" stroke-width="4" stroke-linecap="round"
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M17 25H28" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M33.5 29.5L44.9466 10.2141L54.8039 6" stroke="currentColor" stroke-width="4" stroke-linecap="round"
         stroke-linejoin="round" />
 </svg>

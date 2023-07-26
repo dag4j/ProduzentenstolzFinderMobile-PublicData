@@ -1,13 +1,13 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path
         d="M35 13L30 21M35 13H14.5918L9 21.5V56C9 57.1046 9.89543 58 11 58H28C29.1046 58 30 57.1046 30 56V21.1138M35 13L42 21.1138V33M29.5 22H10.5"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M15 8C15 6.89543 15.8954 6 17 6H33C34.1046 6 35 6.89543 35 8V13H15V8Z" stroke="#00443a" stroke-width="4"
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M15 8C15 6.89543 15.8954 6 17 6H33C34.1046 6 35 6.89543 35 8V13H15V8Z" stroke="currentColor" stroke-width="4"
         stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M23 58H34" stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M38 40L56 40" stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M23 58H34" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M38 40L56 40" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
     <path
         d="M40 40H54L53.1049 56.1109C53.0461 57.1708 52.1695 58 51.108 58H42.892C41.8305 58 40.9539 57.1708 40.8951 56.1109L40 40Z"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M49.5 40L52.5 30.5" stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M49.5 40L52.5 30.5" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
 </svg>

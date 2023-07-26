@@ -1,21 +1,21 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path
         d="M31 27V20.3233C31 19.5889 31.006 18.9196 31.5892 18.4685C33.2452 17.1876 34 15.6366 34 13.9655C34 9.56628 27.2843 6 19 6C10.7157 6 4 9.56628 4 13.9655C4 15.6366 4.75478 17.1876 6.41078 18.4685C6.99404 18.9196 7 19.5889 7 20.3233V36.871C7 38.0468 7.95939 39 9.14286 39H11"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
     <path
         d="M18 6L39.6492 6C48.8501 6 54 9.53672 54 13.8995C54 15.5332 53.6253 17.0511 52.082 18.3108C51.4859 18.7973 51 19.4903 51 20.2519V26"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
     <path
         d="M14.2624 53.1214C12.2869 45.749 20.6102 36.7458 33.2125 33.369C45.8148 29.9923 57.5246 33.6276 59.5 41C61.0521 46.7926 55.7696 50.4657 38.9977 54.9597C22.2259 59.4537 15.8145 58.914 14.2624 53.1214Z"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M33.3594 42.0348C32.9755 39.1744 33.9579 34.6007 36.9061 32.6158" stroke="#00443a" stroke-width="4"
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M33.3594 42.0348C32.9755 39.1744 33.9579 34.6007 36.9061 32.6158" stroke="currentColor" stroke-width="4"
         stroke-linecap="round" stroke-linejoin="round" />
     <path
         d="M21.9696 44.353C21.578 42.8918 21.8131 40.7176 22.6603 38.7058C22.7671 38.4522 22.8837 38.2011 23.0099 37.9544"
-        stroke="#00443a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M45.9258 39.0406C45.9258 35.8868 47.4342 33.8299 49.0797 32.8243" stroke="#00443a" stroke-width="4"
+        stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M45.9258 39.0406C45.9258 35.8868 47.4342 33.8299 49.0797 32.8243" stroke="currentColor" stroke-width="4"
         stroke-linecap="round" stroke-linejoin="round" />
-    <circle cx="15" cy="20" r="2" fill="#00443a" />
-    <circle cx="17" cy="30" r="2" fill="#00443a" />
-    <circle cx="23" cy="23" r="2" fill="#00443a" />
+    <circle cx="15" cy="20" r="2" fill="currentColor" />
+    <circle cx="17" cy="30" r="2" fill="currentColor" />
+    <circle cx="23" cy="23" r="2" fill="currentColor" />
 </svg>
