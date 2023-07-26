@@ -60,8 +60,8 @@
     },
     {
         "id": "7",
-        "name": "Gemüse",
-        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Gemüse.svg",
+        "name": "Gemüse",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Gemuese.svg",
         "subCategories": [
             "Saisonales Gemüse",
             "Erdäpfel",
@@ -74,8 +74,8 @@
     },
     {
         "id": "8",
-        "name": "Getränke",
-        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Getränke.svg",
+        "name": "Getränke",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Getraenke.svg",
         "subCategories": [
             "Bier",
             "Wein",
@@ -95,8 +95,8 @@
     },
     {
         "id": "10",
-        "name": "Gewürze",
-        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Gewürze.svg",
+        "name": "Gewürze",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Gewuerze.svg",
         "subCategories": [
             "Nelken",
             "Zimt",
@@ -106,7 +106,7 @@
     {
         "id": "11",
         "name": "Kaffee und Tee",
-        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Kaffee und Tee.svg",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/KaffeeTee.svg",
         "subCategories": [
             "Kaffee mit Milch",
             "Kaffee ohne Zucker"
@@ -114,10 +114,10 @@
     },
     {
         "id": "12",
-        "name": "Käse",
-        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Käse.svg",
+        "name": "Käse",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Kaese.svg",
         "subCategories": [
-            "Hartköse",
+            "Hartkäse",
             "Weichkäse",
             "Ziegenkäse",
             "Stinkekäse"
@@ -147,8 +147,8 @@
     },
     {
         "id": "15",
-        "name": "Öle",
-        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Öle.svg",
+        "name": "Öle",
+        "iconUrl": "https://dag4j.github.io/ProduzentenstolzFinderMobile-PublicData/data/sample/app/icons/categories/Oele.svg",
         "subCategories": [
             "Leinsamenöl",
             "Rapsöl",
